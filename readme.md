@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Software Engineer with a love for crafting elegant solutions in the digital realm. When not immersed in code, you'll find me exploring the great outdoors—whether conquering trails on a hike, carving fresh powder on a snowboard, or cruising scenic routes on a bike. With a knack for problem-solving in both the tech and natural landscapes, I thrive on the dynamic challenges each brings. Committed to continuous learning and embracing new adventures, I bring a sense of curiosity and enthusiasm to both the world of software development and the vast wilderness beyond
+Passionate Software Engineer with a love for crafting elegant solutions in the digital realm. When not immersed in code, you'll find me exploring the great outdoors—whether conquering trails on a hike, carving fresh powder on a snowboard, or cruising scenic routes on a bike. With a knack for problem-solving in both the tech and natural landscapes, I thrive on the dynamic challenges each brings. Committed to continuous learning and embracing new adventures, I bring a sense of curiosity and enthusiasm to both the world of software development and the vast wilderness beyond.
 
 
 ## 🌐 Socials:
@@ -16,6 +16,8 @@ Passionate Software Engineer with a love for crafting elegant solutions in the d
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![wakatime](https://wakatime.com/badge/user/ab365915-d25a-4f00-a1d2-644929be54cf.svg)](https://wakatime.com/@ab365915-d25a-4f00-a1d2-644929be54cf)
+
 [![](https://visitcount.itsvg.in/api?id=thejoshchow&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
